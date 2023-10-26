@@ -5,5 +5,5 @@
 <br>
 
 ```shell
-git clone https://github.com/kenjitheman/shitman
+git clone https://github.com/kenjitheman/testman
 ```
