@@ -1,6 +1,6 @@
 {
-  "name": "shitman",
-  "module": "index.ts",
+  "name": "bman",
+  "module": "main.ts",
   "type": "module",
   "devDependencies": {
     "bun-types": "latest"
