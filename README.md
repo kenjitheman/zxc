@@ -4,8 +4,6 @@
 
 <br>
 
-## Project structure:
-
 ```rust
 .
 ├── bman
@@ -14,19 +12,28 @@
 │   ├── package.json
 │   ├── README.md
 │   └── tsconfig.json
+├── cman
+│   └── main.c
+├── cppman
+│   └── main.cpp
 ├── gman
 │   ├── go.mod
 │   └── main.go
+├── jman
+│   ├── main.js
+│   └── package.json
+├── lman
+│   └── init.lua
 ├── README.md
 ├── rman
 │   ├── Cargo.lock
 │   ├── Cargo.toml
 │   └── src
-│       └── main.rs
+│       └── main.rs
 └── zman
-├── build.zig
-└── src
-    └── main.zig
+    ├── build.zig
+    └── src
+        └── main.zig
 ```
 
 ## Installation
